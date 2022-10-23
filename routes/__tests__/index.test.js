@@ -1,7 +1,12 @@
-var response = require('../indexResponse');
+const request = require("supertest");
+const app = require("../../app");
 
-describe('index', () => {
-    it('should return correct response for the index route', () => {
-        expect(response.IndexResponse()).toBe('Nothing to respond');
-    })
-})
+describe("Test index", () => {
+  test("It should response the GET method", () => {
+    return request(app)
+      .get("/")
+      .then((response) => {
+        expect(response.statusCode).toBe(200);
+      });
+  });
+});

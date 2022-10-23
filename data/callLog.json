@@ -1,0 +1,202 @@
+{
+  "1": {
+    "id": "c4f7688a-8f26-3f57-8299-ac0df1778325",
+    "CreatedAt": "2018-07-20",
+    "FromName": "Rosella Legros",
+    "FromPhone": "+1-409-905-4802",
+    "ToName": "Prof. Cordelia Koch",
+    "ToNumber": "393-977-8065",
+    "Direction": "inbound",
+    "Duration": "20:43:08"
+  },
+  "2": {
+    "id": "39ea5365-bc7e-3f06-9433-cf47db87fbbb",
+    "CreatedAt": "2014-08-06",
+    "FromName": "Hollis Purdy",
+    "FromPhone": "+1-339-663-7463",
+    "ToName": "Miss Isabella Witting",
+    "ToNumber": "816.595.9224",
+    "Direction": "inbound",
+    "Duration": "12:49:54"
+  },
+  "3": {
+    "id": "b869d009-43f8-3385-8a36-4d6be750670a",
+    "CreatedAt": "2012-12-14",
+    "FromName": "Sage Parisian",
+    "FromPhone": "+1.813.884.6075",
+    "ToName": "Celestine Robel V",
+    "ToNumber": "(262) 643-5056",
+    "Direction": "outbound",
+    "Duration": "06:49:30"
+  },
+  "4": {
+    "id": "73acb22e-feef-3ccb-889e-44874796ccc0",
+    "CreatedAt": "2019-07-18",
+    "FromName": "Chaim Bailey",
+    "FromPhone": "(664) 919-0599",
+    "ToName": "Elmore Reinger Sr.",
+    "ToNumber": "(716) 763-0871",
+    "Direction": "outbound",
+    "Duration": "19:12:47"
+  },
+  "5": {
+    "id": "dd512e13-01eb-3b88-91a0-5bfad4ab2675",
+    "CreatedAt": "2006-12-05",
+    "FromName": "Kyler Lubowitz",
+    "FromPhone": "357-853-4494",
+    "ToName": "Prof. Mary Barrows",
+    "ToNumber": "(973) 989-5606",
+    "Direction": "inbound",
+    "Duration": "16:14:32"
+  },
+  "6": {
+    "id": "c73bd7e3-8993-3e45-a20a-325924aafebd",
+    "CreatedAt": "2006-11-09",
+    "FromName": "Ernie Hodkiewicz",
+    "FromPhone": "(986) 863-4407",
+    "ToName": "Jamil Daniel",
+    "ToNumber": "(201) 952-6184",
+    "Direction": "inbound",
+    "Duration": "22:19:08"
+  },
+  "7": {
+    "id": "29d02b85-8385-3fa7-86d6-fc3fb035acd0",
+    "CreatedAt": "2000-11-29",
+    "FromName": "Aurelia Stark",
+    "FromPhone": "476.731.7614",
+    "ToName": "Andy Walker",
+    "ToNumber": "218.386.1956",
+    "Direction": "inbound",
+    "Duration": "03:51:03"
+  },
+  "8": {
+    "id": "001a8779-ad1c-3bb6-a838-182bbab22a3c",
+    "CreatedAt": "2010-05-24",
+    "FromName": "Palma Donnelly",
+    "FromPhone": "+1 (295) 859-5239",
+    "ToName": "Orville Raynor",
+    "ToNumber": "879.406.5487",
+    "Direction": "outbound",
+    "Duration": "08:31:14"
+  },
+  "9": {
+    "id": "3db771b4-c047-3cb0-baf8-4342a8af3bba",
+    "CreatedAt": "2000-10-25",
+    "FromName": "Magdalena Kohler",
+    "FromPhone": "(843) 410-9860",
+    "ToName": "Bria Farrell",
+    "ToNumber": "732-337-7173",
+    "Direction": "inbound",
+    "Duration": "23:04:36"
+  },
+  "10": {
+    "id": "2730e954-97cd-37d0-a9a9-3002aa3f912a",
+    "CreatedAt": "1991-05-06",
+    "FromName": "Prof. Wade Nikolaus Jr.",
+    "FromPhone": "(888) 988-1415",
+    "ToName": "Charity Nader",
+    "ToNumber": "+1 (912) 876-7135",
+    "Direction": "inbound",
+    "Duration": "15:08:41"
+  },
+  "11": {
+    "id": "c38d32ca-58cb-392a-995c-03354b6b853c",
+    "CreatedAt": "2021-04-20",
+    "FromName": "Wilhelm Nitzsche",
+    "FromPhone": "875-568-4465",
+    "ToName": "Tyrese Lubowitz",
+    "ToNumber": "962-359-6773",
+    "Direction": "outbound",
+    "Duration": "18:28:19"
+  },
+  "12": {
+    "id": "657d9629-ff0d-3cb1-a39a-f9b49f6f643a",
+    "CreatedAt": "1991-06-18",
+    "FromName": "Weldon Cruickshank I",
+    "FromPhone": "315-944-5912",
+    "ToName": "Annabel Beatty",
+    "ToNumber": "492.491.3864",
+    "Direction": "inbound",
+    "Duration": "01:09:36"
+  },
+  "13": {
+    "id": "295db162-128c-32c7-ac66-1e718dc8d988",
+    "CreatedAt": "2019-05-28",
+    "FromName": "Dr. Tobin Denesik",
+    "FromPhone": "+1-800-305-7178",
+    "ToName": "Jaime Schaden",
+    "ToNumber": "(453) 915-6459",
+    "Direction": "inbound",
+    "Duration": "10:43:55"
+  },
+  "14": {
+    "id": "4ca5abbc-bd5c-34ea-b3b6-87c69375f90f",
+    "CreatedAt": "1999-03-25",
+    "FromName": "Merl Streich",
+    "FromPhone": "(686) 772-0526",
+    "ToName": "Kimberly Hand DVM",
+    "ToNumber": "+1-800-707-2213",
+    "Direction": "inbound",
+    "Duration": "22:32:14"
+  },
+  "15": {
+    "id": "61a5a548-43e2-3548-b2e9-133d6c067915",
+    "CreatedAt": "1994-12-01",
+    "FromName": "Prof. Leanne O'Keefe III",
+    "FromPhone": "276.839.6898",
+    "ToName": "Arianna Jerde",
+    "ToNumber": "(751) 759-6154",
+    "Direction": "outbound",
+    "Duration": "20:20:36"
+  },
+  "16": {
+    "id": "49f17697-ea3a-3790-a08d-cd9fb622f8f9",
+    "CreatedAt": "2017-04-16",
+    "FromName": "Dan Luettgen",
+    "FromPhone": "650.682.7121",
+    "ToName": "Dr. Kaley Marks II",
+    "ToNumber": "+1-888-939-0678",
+    "Direction": "inbound",
+    "Duration": "17:14:09"
+  },
+  "17": {
+    "id": "9f1c5e3b-d1b8-32dd-beb4-342c1195e7e2",
+    "CreatedAt": "2002-11-02",
+    "FromName": "Eulah Halvorson IV",
+    "FromPhone": "+1-743-698-6021",
+    "ToName": "Dr. Trent Bayer Sr.",
+    "ToNumber": "+1 (481) 429-7584",
+    "Direction": "inbound",
+    "Duration": "17:26:52"
+  },
+  "18": {
+    "id": "f96f60b8-ec79-359c-ac9d-2a4e6116bbdc",
+    "CreatedAt": "2012-02-02",
+    "FromName": "Luna Klein",
+    "FromPhone": "+1-832-800-0399",
+    "ToName": "Donato Sauer",
+    "ToNumber": "(807) 386-9870",
+    "Direction": "inbound",
+    "Duration": "16:26:39"
+  },
+  "19": {
+    "id": "ebeeb348-6c42-3ca3-af10-bce2e52ba2cb",
+    "CreatedAt": "2008-01-13",
+    "FromName": "Elsa Wintheiser",
+    "FromPhone": "+1-800-803-1101",
+    "ToName": "Aurelia Schmitt IV",
+    "ToNumber": "570-957-1726",
+    "Direction": "outbound",
+    "Duration": "18:43:00"
+  },
+  "20": {
+    "id": "066b59e0-5023-354a-a152-6e8e6b434c03",
+    "CreatedAt": "2014-11-18",
+    "FromName": "Mr. Bobbie Hahn",
+    "FromPhone": "658-759-5152",
+    "ToName": "Isaias Mertz I",
+    "ToNumber": "+1-467-216-7034",
+    "Direction": "inbound",
+    "Duration": "22:58:16"
+  }
+}
